@@ -1,3 +1,4 @@
+// test use: go run -race xx.go
 package main
 
 import (
